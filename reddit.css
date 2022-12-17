@@ -1,0 +1,67 @@
+h1{
+    text-transform: capitalize;
+}
+*{
+    background-color: cyan;
+}
+h1,h2{
+    color: darkslateblue;
+}
+button{
+    background-color: red; font-size: 20px; color: aliceblue;
+}
+input{
+    background-color: white; color:
+}
+::placeholder{
+    background-color: greenyellow; color: red;
+}
+#login{
+    color: red;
+    background-color: black;
+}
+#signup{
+    background-color: blue;
+    color: cyan;
+}
+.first{
+    background-color: yellow;
+    color: red;
+}
+footer a{
+    color: brown;
+    text-decoration:dashed;
+    font-weight: bold;
+   
+}
+
+h2 + button{
+    color: black;
+    background-color: white;
+    font-size: medium;
+}
+footer > a {
+    color: black;
+}
+input[type="password"]{
+    color: green;
+}
+button:hover{
+background-color: brown;
+}
+#login:hover{
+    background-color: white;
+}
+#signup:hover{
+    background-color: green;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+     text-decoration: underline;
+     background-color: red;
+}
+h2 :hover{
+    text-decoration: overline;
+}

@@ -1,0 +1,21 @@
+/* so you can use 3 things for color  */
+/* color rgb and #hexadecimal(a to f and 0 to 9) */
+h1{
+    text-align: center;
+   color: red; font-weight:normal;
+   text-decoration: black  overline  underline line-through wavy;
+   font-size: 50px;
+}
+h2{
+    color: fuchsia;
+    background-color:yellow;
+    text-decoration:wavy black;
+    text-transform:uppercase ;
+}
+button{
+    color:#f56a78;
+    background-color: aqua   ;
+}
+p{
+    color: lightseagreen; 
+}
